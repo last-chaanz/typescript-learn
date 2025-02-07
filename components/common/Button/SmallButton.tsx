@@ -4,6 +4,7 @@ const SmallButton = () => {
     return (
         <div>
             Small Button
+            New Line Created
         </div>
     );
 };
