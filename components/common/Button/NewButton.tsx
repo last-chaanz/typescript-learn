@@ -1,7 +1,7 @@
 import React from 'react';
 
 function NewButton(props) {
-    return <div></div>;
+    return <div>New Orlands</div>;
 }
 
 export default NewButton;
